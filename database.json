@@ -2,8 +2,21 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "ANIME",
-  "total": 0,
-  "data": [],
-  "lastSync": "2026-05-21T15:16:15.593Z",
-  "note": "Genre ini masih kosong, isi di Google Sheet"
+  "total": 2,
+  "data": [
+    {
+      "NAMAE": "cV1fWlYZel1HFXRdEWhQQA==",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAgYWAAIdVlVAZHcIZntqXxpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfA1IWDAEdZmB1ZWt7eGRqXxpBV14=",
+      "LINK": "AwEJBwIKCwYADQcFBgg="
+    },
+    {
+      "NAMAE": "ZlpER0RSTFtbFV5bEUpRdFha",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVVAWDAcdQWRjX390c1BqXxpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBVAWXAQdYUNyQ3BpfmZqXxpBV14=",
+      "LINK": "AwEJBwIJAQcGAQIHBgg="
+    }
+  ],
+  "lastSync": "2026-05-21T16:42:24.301Z",
+  "note": ""
 }
