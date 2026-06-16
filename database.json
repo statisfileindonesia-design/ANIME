@@ -2,7 +2,7 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "ANIME",
-  "total": 2,
+  "total": 4,
   "data": [
     {
       "NAMAE": "cV1fWlYZel1HFXRdEWhQQA==",
@@ -15,8 +15,20 @@
       "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVVAWDAcdQWRjX390c1BqXxpBV14=",
       "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBVAWXAQdYUNyQ3BpfmZqXxpBV14=",
       "LINK": "AwEJBwIJAQcGAQIHBgg="
+    },
+    {
+      "NAMAE": "a1pFRhF1XEFGUEI=",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAwYWCAIdb2pBXktMQHRqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBwEWXwcdfkpDcklhQFNqXxpbSV4=",
+      "LINK": "AwEBBQYKCAwEBQgNBwo="
+    },
+    {
+      "NAMAE": "AwUAFHx8bXBgZg==",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVwMWDQwdc0gNVF91dnhqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBFUWAAYdDFNSAXgOVEBqXxpbSV4=",
+      "LINK": "AwEBBQgKAQIGAwYHBgg="
     }
   ],
-  "lastSync": "2026-06-06T17:38:01.224Z",
+  "lastSync": "2026-06-16T15:55:34.132Z",
   "note": ""
 }
